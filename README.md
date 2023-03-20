@@ -9,3 +9,41 @@ Platform: Oculus Quest2
 
 portfolio 
 https://hongyuwan.sites.northeastern.edu/2023/03/19/vr-game-room-unity/
+
+This project mainly has 5 parts:
+
+XR manager
+
+--XR interaction Manager
+
+--XR Device Simulator (for running and debugging on PC)
+
+--Input Action Manager
+
+STATIC Objects:
+
+--all the objects in this scene(like books, TV, Food, chair, plant, etc)
+
+-- SkyBox (background building)
+
+LIGHTING System:
+
+--Directional Light (Realtime, *from top of this scene)
+
+-- Point Light on the ceiling of the room(Realtime)
+
+--Fireplace Light
+
+Spot Light(Baked)
+
+--Lamp on the table Light
+
+Spot Light(Baked)
+
+DYNAMIC Objects:
+
+All the dynamic objects in this scene can be grabbed by user(interaction), like camera, Tennis ball, phone, notebook, etc.
+
+INTERFACE
+
+Principal Canvas( for show instruction)

@@ -34,11 +34,11 @@ LIGHTING System:
 
 --Fireplace Light
 
-Spot Light(Baked)
+  --Spot Light(Baked)
 
 --Lamp on the table Light
 
-Spot Light(Baked)
+  --Spot Light(Baked)
 
 DYNAMIC Objects:
 
